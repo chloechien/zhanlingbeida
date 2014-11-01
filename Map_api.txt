@@ -1,0 +1,17 @@
+@chloechien 11.1
+
+@api
+http://developer.baidu.com/map/index.php?title=androidsdk/guide/basicmap
+http://developer.baidu.com/map/index.php?title=androidsdk/guide/location
+
+@comment
+	Suggest to use basic marker & POI api for static map elements(buiding, border, etc.). Use OpenGL api for dynamic or non easy-painting elements.
+
+@implementation for frontend - v1.0 
+	1) UI design
+	2) add map layout in xml
+	3) onCreate and Activity setting
+	4) add buidings as latitude langitude points
+	5) add other layers
+	6) bind listening event
+	7) handle other interaction	
